@@ -1,2 +1,14 @@
-# Suggestions-of-Changing-Major-in-NJUST
-南京理工大学转专业经验汇总
+# 南京理工大学转专业经验汇总
+## 0. 前言
+
+
+
+## 1. 文件说明
+
+
+
+## 2. 下载
+
+
+
+## 3. For Contributors
